@@ -1,0 +1,2 @@
+# hello-world
+FIRST ENCOUNTER WITH GITHUB
